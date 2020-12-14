@@ -28,12 +28,3 @@ I work on interesting things 100% remotely from Perth, Western Australia.
 | [RockVomit](https://rockvomit.kranzky.com) | Two player dance-em-up made for the Global Game Jam 2017 with @beetlefeet. |
 
 ---
-
-```
-+ =-- -- =-- =-== === --= ---- === =- - --- = -=-- =-== = ---- -- =- =-= +
-| Mr Jason Lloyd Hutchens - Indie Hacker & Procrastinator Extraordinaire |
-| TMBG/IF/RUBY/AI/VUE/AMIGA/SWITCH ~ Research/Games/Apps/Jams/Diary/More |
-+- mailto:lloyd@kranzky.com - @therealkranzky - https://www.kranzky.com -+
-| unsolicited email advertising is treated with the contempt it deserves |
-+=-== === --= -====- =-- =--- - - =- -=-- -- ==- ---- = - =- - =-- --==--+
-```
