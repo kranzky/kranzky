@@ -3,7 +3,6 @@
 I'm an engineer specialising in startups, web development, game design and AI.\
 I :heart: Ruby, Vue and C, and have also worked professionally with JS, Python, C++ and ~~Java~~.\
 I love Terry Pratchett and They Might Be Giants too :star_struck:\
-I work on interesting things 100% remotely from Perth, Western Australia.
 
 #### Daily COVID-19 Statistics
 
