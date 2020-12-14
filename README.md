@@ -1,21 +1,17 @@
-## G'day! I'm Jason Hutchens from :australia:
+### G'day! I'm Jason Hutchens from :australia:
 
 I'm an engineer specialising in startups, web development, game design and AI.\
 I :heart: Ruby, Vue and C, and have also worked professionally with JS, Python, C++ and ~~Java~~.\
 I love Terry Pratchett and They Might Be Giants too :star_struck:\
 I work on interesting things 100% remotely from Perth, Western Australia.
 
----
-
-### Daily COVID-19 Statistics
+#### Daily COVID-19 Statistics
 
 [![United States of America](https://corona.kranzky.com/am/na/us/badge.svg)](https://corona.kranzky.com?region=am&subregion=na&country=us)
 [![Canada](https://corona.kranzky.com/am/na/ca/badge.svg)](https://corona.kranzky.com?region=am&subregion=na&country=ca)
 [![Australia](https://corona.kranzky.com/oc/anz/au/badge.svg)](https://corona.kranzky.com?region=oc&subregion=anz&country=au)
 
----
-
-### Interesting Things I've Made
+#### Interesting Things I've Made
 
 | Link | Description |
 |---|---|
@@ -26,5 +22,3 @@ I work on interesting things 100% remotely from Perth, Western Australia.
 | [FAQoverflow](https://faqoverflow.kranzky.com) | Great questions to answers about everything, scraped from the StackOverflow API. |
 | [MegaHAL](https://homepage.kranzky.com/megahal/Classic.html) | A Markov-based chatterbot that was briefly popular on the interwebs in the mid-1990s. |
 | [RockVomit](https://rockvomit.kranzky.com) | Two player dance-em-up made for the Global Game Jam 2017 with @beetlefeet. |
-
----
