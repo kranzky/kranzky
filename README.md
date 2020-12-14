@@ -1,6 +1,6 @@
 ### G'day! I'm Jason Hutchens from :australia:
 
-I'm an engineer specialising in startups, web development, game design and AI.\
+I'm a 48yo engineer specialising in startups, web development, game design and AI.\
 I :heart: Ruby, Vue and C, and have also worked professionally with JS, Python, C++ and ~~Java~~.\
 I love Terry Pratchett and They Might Be Giants :star_struck:\
 
