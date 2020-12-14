@@ -2,7 +2,7 @@
 
 I'm an engineer specialising in startups, web development, game design and AI.\
 I :heart: Ruby, Vue and C, and have also worked professionally with JS, Python, C++ and ~~Java~~.\
-I love Terry Pratchett and They Might Be Giants too :star_struck:\
+I love Terry Pratchett and They Might Be Giants :star_struck:\
 
 #### Daily COVID-19 Statistics
 
