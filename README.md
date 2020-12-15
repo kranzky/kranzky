@@ -2,7 +2,7 @@
 
 I'm a 48yo engineer specialising in startups, web development, game design and AI.\
 I :heart: Ruby, Vue and C, and have also worked professionally with JS, Python, C++ and ~~Java~~.\
-I'm a big fan of Terry Pratchett and They Might Be Giants :star_struck:\
+I'm also a big fan of Terry Pratchett and They Might Be Giants :star_struck:\
 
 #### Daily COVID-19 Statistics
 
