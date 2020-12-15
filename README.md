@@ -17,7 +17,7 @@ I'm a big fan of Terry Pratchett and They Might Be Giants :star_struck:\
 |---|---|
 | [Corona](https://corona.kranzky.com) | Charts, SVG badges, CSV export and JSON API for the Johns Hopkins CSSE Coronavirus / COVID-19 dataset. |
 | [hackTILE](https://www.youtube.com/watch?v=uxfEw5C3R18) | A cellular automata game engine, known as "Professor Lazybones" in the prototype. |
-| [Sesame](https://github.com/kranzky/sesame-cli) | A secure command-line password manager with word-based password generation. |
+| [Sesame](https://rubygems.org/gems/sesame-cli) | A secure command-line password manager with word-based password generation. |
 | [Insoluble](https://github.com/kranzky/insoluble) | My entry for NaNoWriMo 2015, which I used to generate my entry to  NaNoGenMo 2018.  |
 | [FAQoverflow](https://faqoverflow.kranzky.com) | Great questions to answers about everything, scraped from the StackOverflow API. |
 | [MegaHAL](https://homepage.kranzky.com/megahal/Classic.html) | A Markov-based chatterbot that was briefly popular on the interwebs in the mid-1990s. |
