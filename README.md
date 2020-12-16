@@ -8,6 +8,7 @@ I'm also a big fan of Terry Pratchett and They Might Be Giants :star_struck:\
 
 [![United States of America](https://corona.kranzky.com/am/na/us/badge.svg)](https://corona.kranzky.com?region=am&subregion=na&country=us)
 [![Europe](https://corona.kranzky.com/eu/badge.svg)](https://corona.kranzky.com?region=eu)
+[![Asia](https://corona.kranzky.com/as/badge.svg)](https://corona.kranzky.com?region=as)
 [![Australia](https://corona.kranzky.com/oc/anz/au/badge.svg)](https://corona.kranzky.com?region=oc&subregion=anz&country=au)
 
 #### Interesting Things I've Made
