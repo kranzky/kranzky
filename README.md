@@ -16,7 +16,7 @@ I'm also a big fan of Terry Pratchett and They Might Be Giants :star_struck:\
 |---|---|
 | [Punk!](https://punk.kranzky.com) | An omakase web framework for rapid prototyping. Let's Punk! |
 | [Corona](https://corona.kranzky.com) | Charts, SVG badges, CSV export and JSON API for the Johns Hopkins CSSE Coronavirus / COVID-19 dataset. |
-| [hackTILE](https://www.youtube.com/watch?v=uxfEw5C3R18) | A cellular automata game engine, known as "Professor Lazybones" in the prototype. |
+| [hackTILE](https://hacktile.kranzky.com) | A cellular automata game engine, known as "Professor Lazybones" in the prototype. |
 | [Sesame](https://rubygems.org/gems/sesame-cli) | A secure command-line password manager with word-based password generation. |
 | [Insoluble](https://github.com/kranzky/insoluble) | My entry for NaNoWriMo 2015, which I used to generate my entry to  NaNoGenMo 2018.  |
 | [FAQoverflow](https://faqoverflow.kranzky.com) | Great questions to answers about everything, scraped from the StackOverflow API. |
