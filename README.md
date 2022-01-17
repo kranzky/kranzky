@@ -14,6 +14,7 @@ I'm also a big fan of Terry Pratchett and They Might Be Giants :star_struck:\
 
 | Link | Description |
 |---|---|
+| [LeWordBot](https://twitter.com/lewordbot) | Just a bot solving the daily wordle. |
 | [Gravitas](https://thepunkcollective.itch.io/gravitas) | A local multiplayer "cave flyer" party game! |
 | [BLaTTiX](https://thepunkcollective.itch.io/blattix) | Fast-paced 2.5D dual-stick retro arena shooter with a punk rock soundtrack. |
 | [hackTILE](https://hacktile.kranzky.com) | A cellular automata game engine, known as "Professor Lazybones" in the prototype. |
