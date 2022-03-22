@@ -14,6 +14,7 @@ I'm also a big fan of Terry Pratchett and They Might Be Giants :star_struck:\
 
 | Link | Description |
 |---|---|
+| [Sesame](https://sesame.website) | Sesame is the simple password manager for everyone. |
 | [LeWordBot](https://twitter.com/lewordbot) | Just a bot solving the daily wordle. |
 | [Gravitas](https://thepunkcollective.itch.io/gravitas) | A local multiplayer "cave flyer" party game! |
 | [BLaTTiX](https://thepunkcollective.itch.io/blattix) | Fast-paced 2.5D dual-stick retro arena shooter with a punk rock soundtrack. |
@@ -24,6 +25,6 @@ I'm also a big fan of Terry Pratchett and They Might Be Giants :star_struck:\
 | [RnDB](https://github.com/kranzky/rndb) | A procedurally generated fake database with queries and associations. |
 | [FAQoverflow](https://faqoverflow.kranzky.com) | Great questions to answers about everything, scraped from the StackOverflow API. |
 | [Punk!](https://punk.kranzky.com) | An omakase web framework for rapid prototyping. Let's Punk! |
-| [Sesame](https://rubygems.org/gems/sesame-cli) | A secure command-line password manager with word-based password generation. |
+| [Sesame CLI](https://rubygems.org/gems/sesame-cli) | A secure command-line password manager with word-based password generation. |
 | [Insoluble](https://github.com/kranzky/insoluble) | My entry for NaNoWriMo 2015, which I used to generate my entry to NaNoGenMo 2018. |
 | [MegaHAL](https://homepage.kranzky.com/megahal/Classic.html) | A Markov-based chatterbot that was briefly popular on the interwebs in the mid-1990s. |
