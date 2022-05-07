@@ -4,6 +4,8 @@ I'm a `0x32` year old engineer specialising in startups, web development, game d
 I :heart: Ruby, Vue and C, and have also worked professionally with JS, Python, C++ and ~~Java~~.\
 I'm also a big fan of Terry Pratchett and They Might Be Giants :star_struck:\
 
+[GitHub résumé](https://resume.github.io/?kranzky)
+
 #### Daily COVID-19 Statistics
 
 [![United States of America](https://corona.kranzky.com/am/na/us/badge.svg)](https://corona.kranzky.com?region=am&subregion=na&country=us)
