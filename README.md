@@ -30,3 +30,4 @@ I'm also a big fan of Terry Pratchett and They Might Be Giants :star_struck:\
 | [Sesame CLI](https://rubygems.org/gems/sesame-cli) | A secure command-line password manager with word-based password generation. |
 | [Insoluble](https://github.com/kranzky/insoluble) | My entry for NaNoWriMo 2015, which I used to generate my entry to NaNoGenMo 2018. |
 | [MegaHAL](https://homepage.kranzky.com/megahal/Classic.html) | A Markov-based chatterbot that was briefly popular on the interwebs in the mid-1990s. |
+| [Soroban](https://github.com/agworld/soroban) | A calculating engine for Ruby that understands Excel formulas. |
