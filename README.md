@@ -1,6 +1,6 @@
 ### G'day! I'm Jason Hutchens from :australia:
 
-I'm a `0x32` year old engineer specialising in startups, web development, game design and AI.\
+I'm a `0x34` year old engineer specialising in startups, web development, game design and AI.\
 I :heart: Ruby, Vue and C, and have also worked professionally with JS, Python, C++ and ~~Java~~.\
 I'm also a big fan of Terry Pratchett and They Might Be Giants :star_struck:\
 
