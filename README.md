@@ -6,16 +6,12 @@ I'm also a big fan of Terry Pratchett and They Might Be Giants :star_struck:\
 
 [GitHub résumé](https://resume.github.io/?kranzky)
 
-#### Daily COVID-19 Statistics
-
-[![United States of America](https://corona.kranzky.com/am/na/us/badge.svg)](https://corona.kranzky.com?region=am&subregion=na&country=us)
-[![Europe](https://corona.kranzky.com/eu/badge.svg)](https://corona.kranzky.com?region=eu)
-[![Australia](https://corona.kranzky.com/oc/anz/au/badge.svg)](https://corona.kranzky.com?region=oc&subregion=anz&country=au)
-
 #### Interesting Things I've Made
 
 | Link | Description |
 |---|---|
+| [Rhyme+Reason](https://rnr.kranzky,com) | A daily word game, like Wordle, but guessing words based on a list of other words.
+| [Vertext](https://vertext.kranzky.com) | A fast and lightweight browser for the MMM (the Massive Markdown Matrix).
 | [Sesame](https://sesame.website) | Sesame is the simple password manager for everyone. |
 | [LeWordBot](https://twitter.com/lewordbot) | Just a bot solving the daily wordle. |
 | [Gravitas](https://thepunkcollective.itch.io/gravitas) | A local multiplayer "cave flyer" party game! |
