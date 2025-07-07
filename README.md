@@ -5,6 +5,7 @@ I :heart: Ruby, Vue and C, and have also worked professionally with JS, Python
 I'm also a big fan of Terry Pratchett and They Might Be Giants :star_struck:\
 
 [GitHub résumé](https://resume.github.io/?kranzky)
+[Actual résumé](https://www.kranzky.com/jason_hutchens.pdf)
 
 #### Interesting Things I've Made
 
