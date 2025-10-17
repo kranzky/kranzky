@@ -11,7 +11,7 @@ I'm also a big fan of Terry Pratchett and They Might Be Giants :star_struck:\
 
 | Link | Description |
 |---|---|
-| [Rhyme+Reason](https://rnr.kranzky,com) | A daily word game, like Wordle, but guessing words based on a list of other words.
+| [Rhyme+Reason](https://rnr.kranzky.com) | A daily word game, like Wordle, but guessing words based on a list of other words.
 | [Vertext](https://vertext.kranzky.com) | A fast and lightweight browser for the MMM (the Massive Markdown Matrix).
 | [Sesame](https://sesame.website) | Sesame is the simple password manager for everyone. |
 | [LeWordBot](https://twitter.com/lewordbot) | Just a bot solving the daily wordle. |
