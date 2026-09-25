@@ -15,6 +15,7 @@ I've been building language models since the 1990s, when I won the Loebner Prize
 | Link | Description |
 |---|---|
 | [Git Lineage](https://gitlineage.com) | Realtime git blame history: scrub through a file's history and watch it change, commit by commit. |
+| [Multimouse Minigames](https://kranzky.itch.io/multimouse-minigames) | One screen, a mouse each: eight quick party games for up to four players. |
 | [ECS Rails](https://github.com/kranzky/ecs_rails) | An open-source gem that brings the Entity-Component-System pattern to ActiveRecord. |
 | [Vertext](https://jasonhutchens.com/projects/vertext/) | A fast, native browser for the Massive Markdown Matrix. |
 | [Lazybones](https://thepunkcollective.itch.io/lazybones) | A tool for making retro 2D games where the rules are cellular automata. |
