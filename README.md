@@ -1,14 +1,14 @@
-### G'day! I'm Jason Hutchens from :australia:
+### G'day! I'm Jason Hutchens from 🇦🇺
 
 I'm a `0x36`-year-old staff engineer, technical leader and AI researcher.
 
-I've been building language models since the 1990s, when I won the Loebner Prize, and I worked on *Black & White* at Lionhead and *L.A. Noire* at Team Bondi. These days I'm a Staff Engineer at Valiant Finance, and I build my own products alongside AI coding agents. I love learning new things and explaining them to others, which makes me a keen mentor and teacher. I'm also a big fan of Terry Pratchett and They Might Be Giants :star_struck:
+I've been building language models since the 1990s, when I won the Loebner Prize, and I worked on *Black & White* at Lionhead and *L.A. Noire* at Team Bondi. These days I'm a Staff Engineer at Valiant Finance, and I build my own products alongside AI coding agents. I love learning new things and explaining them to others, which makes me a keen mentor and teacher. I'm also a big fan of Terry Pratchett and They Might Be Giants 🤩
 
-:globe_with_meridians: [jasonhutchens.com](https://jasonhutchens.com) ·
-:page_facing_up: [Résumé](https://jasonhutchens.com/jason_hutchens.pdf) ·
-:handshake: [Work with me](https://jasonhutchens.com/work-with-me/) ·
-:pencil2: [Blog](https://medium.com/the-magic-pantry) ·
-:briefcase: [LinkedIn](https://www.linkedin.com/in/jasonhutchens)
+🌐 [jasonhutchens.com](https://jasonhutchens.com) ·
+📄 [Résumé](https://jasonhutchens.com/jason_hutchens.pdf) ·
+🤝 [Work with me](https://jasonhutchens.com/work-with-me/) ·
+✏️ [Blog](https://medium.com/the-magic-pantry) ·
+💼 [LinkedIn](https://www.linkedin.com/in/jasonhutchens)
 
 #### What I'm Building
 
