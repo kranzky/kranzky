@@ -15,9 +15,11 @@ I've been building language models since the 1990s, when I won the Loebner Prize
 | Link | Description |
 |---|---|
 | [Git Lineage](https://gitlineage.com) | Realtime git blame history: scrub through a file's history and watch it change, commit by commit. |
+| [Vow](https://vow.kranzky.com) | A programming language for LLM authors, with every contract proved by the Z3 SMT solver. |
 | [th1ng](https://th1ng.kranzky.com) | A reading inbox chosen by friends: one URL a day, seven curators, no algorithm. |
 | [Multimouse Minigames](https://kranzky.itch.io/multimouse-minigames) | One screen, a mouse each: eight quick party games for up to four players. |
 | [ECS Rails](https://github.com/kranzky/ecs_rails) | An open-source gem that brings the Entity-Component-System pattern to ActiveRecord. |
+| [Simplexions](https://jasonhutchens.com/projects/simplexions/) | An experimental algorithm for online sequence prediction, with a population that evolves as it learns. |
 | [Vertext](https://jasonhutchens.com/projects/vertext/) | A fast, native browser for the Massive Markdown Matrix. |
 | [Lazybones](https://thepunkcollective.itch.io/lazybones) | A tool for making retro 2D games where the rules are cellular automata. |
 
@@ -41,4 +43,4 @@ I've been building language models since the 1990s, when I won the Loebner Prize
 | [Sesame CLI](https://rubygems.org/gems/sesame-cli) | A secure command-line password manager with word-based password generation. |
 | [Soroban](https://github.com/agworld/soroban) | A calculating engine for Ruby that understands Excel formulas. |
 
-There's much more (35 projects and counting) at [jasonhutchens.com/projects](https://jasonhutchens.com/projects/).
+There's much more (39 projects and counting) at [jasonhutchens.com/projects](https://jasonhutchens.com/projects/).
